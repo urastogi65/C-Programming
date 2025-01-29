@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-int sum_of_natural_numbers(int n) {
+int sum_of_natural_numbers(int n) 
+
+
     return n * (n + 1) / 2;
 }
 
